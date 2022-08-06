@@ -1,0 +1,17 @@
+commit 35116f018a866c752715e55b5724c9fc4277a638
+Author: Gavin Hammer-Perdew <ghammerperdew@madisoncollege.edu>
+Date:   Thu Jun 23 20:24:26 2022 -0500
+
+    Added a new file
+
+commit 7ba73a7aa33dc7574e99cf129c2a03bc9e6e45e1
+Author: Gavin Hammer-Perdew <ghammerperdew@madisoncollege.edu>
+Date:   Thu Jun 23 19:37:12 2022 -0500
+
+    Initial commit of GitHub exercise
+
+commit 0f3f9a9647a2d1e459b6e7a08d85b139c47aa469
+Author: Gavin Hammer-Perdew <ghammerperdew@madisoncollege.edu>
+Date:   Thu Jun 23 19:12:41 2022 -0500
+
+    Initial commit of GitHub exercise

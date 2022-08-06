@@ -1,0 +1,7 @@
+This is testFile1.txt.
+The data from this file should be transferred to testFile2.txt
+If you are reading this in testFile2.txt, it was a success.
+
+
+Here are some more words to run another test with.
+Everything in the file will be transferred and appended to testFile2.txt.
